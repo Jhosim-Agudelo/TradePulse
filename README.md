@@ -1,6 +1,6 @@
 # TradePulse
 
-<h2> Curriculum  <h2>
+<h2> Curriculum  </h2>
 
 Here is a revised curriculum for my TradePulse project, which is structured to guide you through the entire process of quantitative trading, from data collection and storage to strategy development, backtesting, and risk management:
 
